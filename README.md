@@ -131,7 +131,9 @@ Selective Pressure: By keeping only the top-performing agents in each generation
 Gradual Improvement: Over many generations, the population tends to improve its average performance, as successful traits are more likely to be passed on and refined.
 Adaptation to Data: By training on different segments of the time series, agents learn to generalize across various market conditions present in the training data.
 
+## Disclaimer
 
+Project was done just to practice and was done in a quick way, so im assuming there will be plenty of room for improvement. Hopfully can be used as foundations for other projects.
 
 ######################################
 
